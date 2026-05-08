@@ -1,16 +1,43 @@
-# React + Vite
+<img width="1918" height="934" alt="Screenshot 2026-05-08 190133" src="https://github.com/user-attachments/assets/a707559d-ce3c-4756-bda2-9d69f01699cf" />#🚚 Smart Logistics Dashboard - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI-powered logistics and delivery tracking dashboard built using React. The application provides real-time delivery tracking, route monitoring, analytics, and an AI chatbot assistant for logistics management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📦 Real-time order tracking
+- 🚚 Live delivery vehicle monitoring
+- 🗺 Interactive maps using Leaflet
+- 🤖 AI-powered logistics chatbot
+- 📊 Delivery analytics dashboard
+- 🔔 Live updates with Socket.IO
+- 📱 Responsive modern UI
+- 📍 Driver and route management
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- React Leaflet
+- Socket.IO Client
+- React Icons / Lucide React
+- Axios
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── services/
+├── assets/
+├── App.jsx
+└── main.jsx
+
+Thses are the screen shots 
+
